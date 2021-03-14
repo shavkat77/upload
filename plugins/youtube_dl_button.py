@@ -322,9 +322,9 @@ async def youtube_dl_call_back(bot, update):
             media_album_p = []
             if images is not None:
                 i = 0
-                caption = "© @PHP_Secrets"
+                caption = "© @v_a_q_t"
                 if is_w_f:
-                    caption = "/upgrade suv belgisini olib tashlash uchun D rejasiga o'ting\n© @RedFoc"
+                    caption = "/upgrade suv belgisini olib tashlash uchun D rejasiga o'ting\n© @abdulloev_shavkat"
                 for image in images:
                     if os.path.exists(image):
                         if i == 0:
