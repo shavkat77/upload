@@ -7,7 +7,7 @@ class Translation(object):
 Buning uchun /help buyrug'ini yuborib To'liq ma'lumot bilib oling.
 
 💻Dasturchi: @abdulloev_shavkat
-📡Kanallarimiz @PHP_Secrets , @app_Telegraph_Uzbek , @EHMUZ"""
+📡Kanallarimiz @KingsOfPhp , @EHMUZ"""
     RENAME_403_ERR = "Kechirasiz. Sizga ushbu faylning nomini o'zgartirish huquqi berilmagan."
     ABS_TEXT = " Iltimos, xudbin bo'lmang."
     UPGRADE_TEXT = "<b>👉 /help buyrug'ini yuboring </b>"
@@ -51,7 +51,7 @@ Muddati tugaydi: 31/12/2020"""
 --------
 
 💻Dasturchi: @abdulloev_shavkat
-📡Kanallarimiz @PHP_Secrets , @app_Telegraph_Uzbek , @EHMUZ"""
+📡Kanallarimiz @KingsOfPhp , @EHMUZ"""
     REPLY_TO_DOC_GET_LINK = "Yuqori tezlikda to'g'ridan-to'g'ri yuklab olish havolasini olish uchun Telegram media-ga javob bering"
     REPLY_TO_DOC_FOR_C2V = "O'zgartirish uchun Telegram media-ga javob bering"
     REPLY_TO_DOC_FOR_SCSS = "Skrinshotlarni olish uchun Telegram media-ga javob bering"
