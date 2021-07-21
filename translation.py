@@ -50,7 +50,7 @@ Muddati tugaydi: 31/12/2020"""
 
 --------
 
-💻Dasturchi: @RedFoc
+💻Dasturchi: @abdulloev_shavkat
 📡Kanallarimiz @PHP_Secrets , @app_Telegraph_Uzbek , @EHMUZ"""
     REPLY_TO_DOC_GET_LINK = "Yuqori tezlikda to'g'ridan-to'g'ri yuklab olish havolasini olish uchun Telegram media-ga javob bering"
     REPLY_TO_DOC_FOR_C2V = "O'zgartirish uchun Telegram media-ga javob bering"
